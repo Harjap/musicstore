@@ -1,0 +1,6 @@
+sql server
+
+host: comp2007pm1.database.windows.net
+database name: musicstorePm
+username: mvcdba
+password: Liveoutloud10
